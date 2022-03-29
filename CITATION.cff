@@ -1,0 +1,8 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Sousa Gaspar
+    given-names: Paulo António
+title: "BC66 TE-B Data Collection Arduino Code"
+version: 1.0.0
+date-released: 2022-03-29
